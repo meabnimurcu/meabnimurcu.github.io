@@ -3,6 +3,8 @@ layout: default
 ---
 # supermoon zines
 
+![Phlox](phlox2.jpg)
+
 ## pink supermoon issue 1
 [a5 pdf format](meabnimurcu.github.io/zines/pinksupermoon1/pinksupermoon1a5.pdf) - for laptops, e-readers, tablets
 
