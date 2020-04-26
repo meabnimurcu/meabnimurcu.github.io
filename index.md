@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# pink supermoon 1
+[a5 format](meabnimurcu.github.io/meabnimurcu.github.io/zines/pinksupermoon1/pinksupermoon1a5.pdf)
 
 # supermoon zines
 
