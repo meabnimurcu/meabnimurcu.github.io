@@ -27,3 +27,6 @@ I currently do not plan on putting up the draft LaTeX files for these zines but 
 * [The Creative Independent: how to make a zine](https://thecreativeindependent.com/guides/how-to-make-a-zine/)
 * [A LaTeX template for a single-sheet zine](https://github.com/polychora-org/8up-zine)
 * [A very simple LaTeX zine](https://tex.stackexchange.com/questions/463741/how-to-create-template-for-foldable-booklet-requires-rotating-and-reordering-pa)
+
+
+[comments](meabnimurcu.github.io/comments.html)
