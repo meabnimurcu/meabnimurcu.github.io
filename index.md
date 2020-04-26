@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # supermoon zines
 
 Under construction - please check back soon!
