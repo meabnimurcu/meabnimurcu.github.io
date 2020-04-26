@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-# pink supermoon issue 1
+# supermoon zines
+
+## pink supermoon issue 1
 [a5 pdf format](meabnimurcu.github.io/zines/pinksupermoon1/pinksupermoon1a5.pdf) - for laptops, e-readers, tablets
+
 [print it yourself pdf booklet](meabnimurcu.github.io/zines/pinksupermoon1/pinksupermoon1booklet.pdf) - see folding instructions below
 
 ## print it yourself zines
